@@ -1,5 +1,12 @@
+
 {
+  "compilerOptions": {
+    // other compiler options here
+    "typeRoots": ["node_modules/@types"],
+    "types": []
+  },
   "typeAcquisition": {
     "include": ["jest"]
   }
 }
+
